@@ -1,6 +1,3 @@
 Hello,World😊!
-GIT
-Java!
-P10😊😊
 MASTER
 fix2
