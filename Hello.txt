@@ -1,5 +1,4 @@
 Hello,World😊!
 GIT
 Java
-P8
 P10
